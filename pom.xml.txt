@@ -1,1 +1,8 @@
-
+Name	Date	Place	
+Post Graduate Program in Full Stack Web Development	Cohort starts on 15th Aug 2023,
+Weekend batch	Your City	View Details
+Post Graduate Program in Full Stack Web Development, Hyderabad	Cohort starts on 12th Sep 2023,
+Weekend batch	Hyderabad	View Details
+Post Graduate Program in Full Stack Web Development, Pune	Cohort starts on 10th Oct 2023,
+Weekend batch	Pune	View Details
+About the Author
