@@ -1,0 +1,8 @@
+[ $string == efg* ]] – checks if string begins with efg. 
+
+[[ $string == "efg*" ]] – checks if string is efg. 
+
+10. In what ways, shell script get input values?
+a. By reading command: read -p "Destination backup Server: " dest host
+
+b. By parameters: ./script param1 param2
